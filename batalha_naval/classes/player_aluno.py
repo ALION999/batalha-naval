@@ -1,5 +1,5 @@
-# Nome completo do primeiro membro: [Aluno que fez a entrega]
-# RA do primeiro membro: [Aluno que fez a entrega]
+# Nome completo do primeiro membro: Roger Honorato
+# RA do primeiro membro: 247617
 # Nome completo do segundo membro: [Segundo membro da equipe]
 # RA do segundo membro: [Segundo membro da equipe]
 
